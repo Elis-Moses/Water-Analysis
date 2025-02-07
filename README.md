@@ -1,2 +1,1 @@
-Created 4 interactive visualizations for water sources in Uganda
-utilizing the ggplot2 package and stadia maps in R.
+I developed an R-based data visualization project focusing on water sources in Uganda, leveraging data from the Tidy Tuesday initiative. This project involved cleaning, analyzing, and visualizing key insights about the distribution and types of water sources across the country. The visualizations provide a clear overview of water accessibility, highlighting regional disparities and supporting data-driven discussions on water resource management in Uganda
